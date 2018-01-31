@@ -208,7 +208,7 @@ module.exports = function(RED) {
         this.store = params.store;
         this.storeType = params.storeType;
         this.waitfor = params.waitfor;
-        
+
         this.on('input', function(msg) {
             if (msg.error) {
                 // FIXME: Add error handling here
