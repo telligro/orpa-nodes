@@ -2,6 +2,10 @@
   "name": "@telligro/opal-node-control-flow",
   "version": "0.2.2",
   "description": "Set of nodes to aid with control flow constructs in opal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/telligro/opal-nodes.git"
+  },
   "main": "init.js",
   "scripts": {
     "lint": "gulp lint"

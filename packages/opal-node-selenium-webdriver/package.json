@@ -2,6 +2,10 @@
 	"name": "@telligro/opal-node-selenium-webdriver",
 	"version": "0.2.5",
 	"description": "selenium-webdriver nodes for OPAL. Inspired by node-red-node-selenium-webdriver",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/telligro/opal-nodes.git"
+	},
 	"dependencies": {
 		"@telligro/opal-page-object-finder": "~0.3.0",
 		"easyimage": ">=2.1.0",
