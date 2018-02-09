@@ -1,7 +1,7 @@
 {
-	"name": "@telligro/opal-node-selenium-webdriver",
+	"name": "@telligro/opal-node-ui-web-browser",
 	"version": "0.2.5",
-	"description": "selenium-webdriver nodes for OPAL. Inspired by node-red-node-selenium-webdriver",
+	"description": "Web Browser UI nodes for OPAL",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/telligro/opal-nodes.git"
@@ -22,7 +22,7 @@
 	],
 	"node-red": {
 		"nodes": {
-			"selenium-webdriver": "selenium-webdriver.js",
+			"web-browser": "web-browser.js",
 			"web-element": "web-element.js",
 			"web-page": "web-page.js"
 		}

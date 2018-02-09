@@ -18,8 +18,8 @@ Refer to  [opal-setup](https://github.com/telligro/opal-setup) project for more 
 [![opal-node-soap build status](https://frozen-fortress-98851.herokuapp.com/telligro/opal-nodes/5/badge?subject=build)](https://travis-ci.org/telligro/opal-nodes) [![npm (scoped)](https://img.shields.io/npm/v/@telligro/opal-node-soap.svg)](https://www.npmjs.com/package/@telligro/opal-node-soap)
 * [opal-node-control-flow](https://github.com/telligro/opal-nodes/tree/master/packages/opal-node-control-flow)
 [![opal-node-control-flow build status](https://frozen-fortress-98851.herokuapp.com/telligro/opal-nodes/6/badge?subject=build)](https://travis-ci.org/telligro/opal-nodes) [![npm (scoped)](https://img.shields.io/npm/v/@telligro/opal-node-control-flow.svg)](https://www.npmjs.com/package/@telligro/opal-node-control-flow)
-* [opal-node-selenium-webdriver](https://github.com/telligro/opal-nodes/tree/master/packages/opal-node-selenium-webdriver)
-[![opal-node-selenium-webdriver build status](https://frozen-fortress-98851.herokuapp.com/telligro/opal-nodes/7/badge?subject=build)](https://travis-ci.org/telligro/opal-nodes) [![npm (scoped)](https://img.shields.io/npm/v/@telligro/opal-node-selenium-webdriver.svg)](https://www.npmjs.com/package/@telligro/opal-node-selenium-webdriver)
+* [opal-node-ui-web-browser](https://github.com/telligro/opal-nodes/tree/master/packages/opal-node-ui-web-browser)
+[![opal-node-ui-web-browser build status](https://frozen-fortress-98851.herokuapp.com/telligro/opal-nodes/7/badge?subject=build)](https://travis-ci.org/telligro/opal-nodes) [![npm (scoped)](https://img.shields.io/npm/v/@telligro/opal-node-ui-web-browser.svg)](https://www.npmjs.com/package/@telligro/opal-node-ui-web-browser)
 * [opal-node-pdfreader](https://github.com/telligro/opal-nodes/tree/master/packages/opal-node-pdfreader)
 [![opal-node-pdfreader build status](https://frozen-fortress-98851.herokuapp.com/telligro/opal-nodes/8/badge?subject=build)](https://travis-ci.org/telligro/opal-nodes) [![npm (scoped)](https://img.shields.io/npm/v/@telligro/opal-node-pdfreader.svg)](https://www.npmjs.com/package/@telligro/opal-node-pdfreader)
 
