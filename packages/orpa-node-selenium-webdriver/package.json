@@ -27,8 +27,8 @@
 		"node": ">= 8.7.0"
 	},
 	"author": {
-		"name": "parodot",
-		"email": "orpayuser@yahoo.com"
+		"name": "Shiva Kumar Madhavan",
+		"email": "shiva.madhavan@gmail.com"
 	},
 	"scripts": {
 		"build-debug": "browserify ./ServiceManager.js:ServiceManager -d > plugins/servicemanager.bundle.js",
