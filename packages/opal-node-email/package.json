@@ -22,7 +22,7 @@
       "email": "balaraman@gmail.com"
     }
   ],
-  "name": "@torpadev/opal-node-email",
+  "name": "@telligro/opal-node-email",
   "node-red": {
     "nodes": {
       "email": "emailprocess.js"

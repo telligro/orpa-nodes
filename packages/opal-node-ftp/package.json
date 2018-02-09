@@ -1,5 +1,5 @@
 {
-	"name": "@torpadev/opal-node-ftp",
+	"name": "@telligro/opal-node-ftp",
 	"version": "0.2.2",
 	"description": "FTP Read/Write nodes for OPAL",
 	"dependencies": {

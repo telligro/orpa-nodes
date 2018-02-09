@@ -1,5 +1,5 @@
 {
-	"name": "@torpadev/opal-node-database",
+	"name": "@telligro/opal-node-database",
 	"version": "0.2.2",
 	"description": "Database Read/Write nodes for OPAL",
 	"dependencies": {
