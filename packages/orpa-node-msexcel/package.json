@@ -1,5 +1,5 @@
 {
-  "name": "@torpadev/orpa-node-msexcel",
+  "name": "@torpadev/opal-node-msexcel",
   "version": "0.2.2",
   "description": "MS Excel Read/Write nodes for OPAL",
   "dependencies": {

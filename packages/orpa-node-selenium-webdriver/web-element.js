@@ -32,8 +32,8 @@ module.exports = function(RED) {
     const until = webdriver.until;
 
     // console.log('Registering Plugin Service')
-    // const FinderPluginSvc = require('@torpadev/orpa-page-object-finder').FinderPluginSvc;
-    // const Dispatcher = require('@torpadev/orpa-page-object-finder').Dispatcher;
+    // const FinderPluginSvc = require('@torpadev/opal-page-object-finder').FinderPluginSvc;
+    // const Dispatcher = require('@torpadev/opal-page-object-finder').Dispatcher;
     // console.log('Registered Plugin Service: Page Object Finder');
     // // const finderSvc = new FinderPluginSvc();
     // const dispatcher = new Dispatcher();

@@ -1,5 +1,5 @@
-[![orpa-node-selenium-webdriver build status](https://frozen-fortress-98851.herokuapp.com/telligro/orpa-nodes/7/badge?subject=build)](https://travis-ci.org/telligro/orpa-nodes) [![npm (scoped)](https://img.shields.io/npm/v/@torpadev/orpa-node-selenium-webdriver.svg)](https://www.npmjs.com/package/@torpadev/orpa-node-selenium-webdriver) [![license](https://img.shields.io/github/license/telligro/orpa-node-red.svg)](LICENSE)
-## orpa-node-selenium-webdriver 
+[![opal-node-selenium-webdriver build status](https://frozen-fortress-98851.herokuapp.com/telligro/opal-nodes/7/badge?subject=build)](https://travis-ci.org/telligro/opal-nodes) [![npm (scoped)](https://img.shields.io/npm/v/@torpadev/opal-node-selenium-webdriver.svg)](https://www.npmjs.com/package/@torpadev/opal-node-selenium-webdriver) [![license](https://img.shields.io/github/license/telligro/opal-node-red.svg)](LICENSE)
+## opal-node-selenium-webdriver 
 ### This module is part of the OPAL framework
 #### Nodes: 
 * open web 

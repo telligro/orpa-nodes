@@ -1,5 +1,5 @@
 {
-	"name": "@torpadev/orpa-node-soap",
+	"name": "@torpadev/opal-node-soap",
 	"version": "0.2.2",
 	"description": "SOAP Read/Write nodes for OPAL",
 	"dependencies": {
