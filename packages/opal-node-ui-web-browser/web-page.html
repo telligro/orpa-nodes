@@ -148,7 +148,7 @@
                 en: '%s should be unique'
             }
         });
-       
+
         const webUtils = require('WebNodeUtils').instance;
         const fastDeepEqual = require('fast-deep-equal');
     window.finderActive = false;
@@ -189,7 +189,7 @@
             return (this.name ? this.name : "UNNAMED");
         },
         oneditprepare: async function() {
-             const Services = require('ServiceManager');
+            const Services = require('ServiceManager');
             var tabs = RED.tabs.create({
                 id: "node-config-web-page-tabs",
                 onchange: function(tab) {
