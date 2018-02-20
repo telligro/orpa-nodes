@@ -31,15 +31,15 @@ module.exports = function(RED) {
     const By = webdriver.By;
     const until = webdriver.until;
 
-    console.log('Registering Plugin Service');
+    // console.log('Registering Plugin Service');
     const FinderPluginSvc = require('@telligro/opal-page-object-finder').FinderPluginSvc;
     const dispatcher = require('@telligro/opal-page-object-finder').Dispatcher;
-    console.log('Registered Plugin Service: Page Object Finder');
+    // console.log('Registered Plugin Service: Page Object Finder');
     // const finderSvc = new FinderPluginSvc();
     // const dispatcher = new Dispatcher();
     dispatcher.registerObject('FinderPluginSvcElm', FinderPluginSvc);
     // console.log(finderSvc);
-    console.log(dispatcher);
+    // console.log(dispatcher);
     try {
         dispatcher.start(9010);
     } catch (ex) {
