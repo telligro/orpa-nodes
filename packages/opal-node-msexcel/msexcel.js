@@ -502,7 +502,7 @@ module.exports = function(RED) {
             {name: 'name'}, {name: 'mode'}, {name: 'asis'},
             {name: 'asjson'}, {name: 'useLabel'},
             {name: 'removeEmpty'}, {name: 'actionType'},
-            { name: 'contents', type: 'contentsType' },
+            {name: 'contents', type: 'contentsType'},
         ]);
 
         // FIXME:Cleanup
@@ -587,10 +587,9 @@ module.exports = function(RED) {
                         } else {
                             if (msgParams.actionType == 'write') {
                                 contents = xlsx.utils.aoa_to_sheet(msgParams.contents);
-                            }else{
+                            } else {
                                 contents = requiredSheet;
                             }
-                            
                         }
                         if (msgParams.actionType == 'write') {
                             workbook.Sheets[msgParams.sheet] = contents;
